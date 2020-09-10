@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Selçuk KUBUR work as Senior DevOps Engineer at Emlakjet (Turkish Property Management).Previously worked on Many years as manager for IT Infrastructures,  I'm a huge nerd/geek for Cloud Solutions like Building/Designing CI/CD pipelines and Serverless apps.Im also always focused on learning while working.
+My name is Selçuk KUBUR work as Senior DevOps Engineer.Previously worked on Many years as manager for IT Infrastructures,  I'm a huge nerd/geek for Cloud Solutions like Building/Designing CI/CD pipelines and Serverless apps.Im also always focused on learning while working.
 
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fselcukkubur.selcukkubur%2Freadme)
