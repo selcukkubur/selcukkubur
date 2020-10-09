@@ -11,7 +11,7 @@ My name is Selçuk KUBUR work as Senior DevOps Engineer.Previously worked on Man
 
 ## Job
 
-I'm working as a Senior Devops Engineer in [Emlakjet](https://www.emlakjet.com)
+I'm working as a Senior Devops Engineer
 
 
 ## Know / Using 🧠
