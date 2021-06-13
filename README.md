@@ -24,7 +24,7 @@ src="https://github.com/github/explore/blob/main/topics/azure/azure.png?raw=true
 
 ## Learning 📚
 
-<img src="https://github.com/aws/aws-cdk/blob/master/logo/default-128-dark.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" />
+<img src="https://github.com/aws/aws-cdk/blob/master/logo/default-128-dark.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/go/go.png?raw=true" height="32" />
 
 
 ## My values
