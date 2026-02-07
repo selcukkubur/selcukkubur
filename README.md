@@ -38,10 +38,16 @@
 
 ---
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=selcukkubur&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
+</div>
+
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selcukkubur&theme=tokyonight" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=selcukkubur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=selcukkubur&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
 </div>
 
